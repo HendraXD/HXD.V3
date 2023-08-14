@@ -1,4 +1,4 @@
-# DannV3
+# HXD V3
 
 <a href="https://github.com/DannOfficial/DannV3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/DannOfficial/DannV3/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
